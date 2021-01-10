@@ -40,10 +40,3 @@ if typ in ['cat']:
     Cat_converter()
 elif typ in ['dog']:
     Dog_converter()
-
-
-# In[ ]:
-
-
-
-
